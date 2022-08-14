@@ -1,1 +1,3 @@
 # PlayToWin
+
+link to infographic
