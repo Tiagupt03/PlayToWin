@@ -1,6 +1,0 @@
-1, Shopping coupons
-2, Food coupons
-3, Movie ticket
-4, Toy coupons
-5, Concert ticket
-6, Football jersey
