@@ -1,0 +1,6 @@
+create database project;
+use project;
+create table books(SNo int, BOOK varchar(45), PRICE int);
+INSERT INTO books VALUES(1,'Pride and Prejudice', 50);
+INSERT INTO books VALUES(2,'Alice in the Wonderland', 40);
+INSERT INTO books VALUES(3,'Great Expectation', 30);
